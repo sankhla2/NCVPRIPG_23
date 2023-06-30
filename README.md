@@ -1,10 +1,6 @@
 # NCVPRIPG_23
-Summer_Challenge_Writer_Verification_
+Summer Challenge Writer Verification 
 
-
-# Code README
-
-This is the code for a writer classification task using a deep learning model. The code includes training the model, evaluating it on a validation set, and generating predictions for a test set. Below is a breakdown of the code and its usage.
 
 ## Dependencies
 The code requires the following dependencies:
